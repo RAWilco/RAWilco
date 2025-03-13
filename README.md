@@ -1,7 +1,8 @@
 ## Hello 
 
-This is the personal repository ReadMe for Richard Wilcoxson.
+This is the personal repository README for Richard Wilcoxson.
 
+This is a change to the README.
 
 
 <!--
