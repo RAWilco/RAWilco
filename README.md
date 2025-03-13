@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 
+
+This is the personal repository ReadMe for Richard Wilcoxson.
+
+
 
 <!--
 **RAWilco/RAWilco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
